@@ -257,6 +257,7 @@ margin: 20px;
     margin-top: 75px;
 font-size: 1.2rem;
 text-align: centre;
+    padding: 25px;
 
 
 }
@@ -265,7 +266,7 @@ text-align: centre;
     padding-left: 10px;
     padding-right: 10px;
     text-decoration: none;
-    padding-bottom: 25px;
+    
 }
 .photos {
    
