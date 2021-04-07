@@ -279,13 +279,14 @@ text-align: centre;
    
     
 }
-.pho text{
-    margin: 25px;
-    padding-top: 25px;
-}
+
 .container3 {
   width: 60%;
   margin: 2rem auto; 
+}
+.pho text{
+    margin: 25px;
+    padding-top: 25px;
 }
 
 .gallery3 {
